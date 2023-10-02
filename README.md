@@ -1,4 +1,4 @@
-# Exercícios de Consulta SQL
+# Exercícios de Consulta SQL : Tabela Produtos (AGRUPAMENTO E AGREGAÇÃO)
 ## Resumo:
 "Este repositório contém consultas SQL que fornecem insights e informações úteis sobre uma tabela de produtos ('tab_produtos'). As consultas incluem a obtenção do número total de produtos cadastrados, a média de preços, a média de preços dividida entre produtos perecíveis e não perecíveis, a média de preços por nome de produto, a média de preços e o total em estoque, o nome, marca e quantidade em estoque do produto mais caro, produtos com preço acima da média e a quantidade de produtos por nacionalidade. Essas consultas foram desenvolvidas para análise e relatórios sobre os dados da tabela de produtos."
 
